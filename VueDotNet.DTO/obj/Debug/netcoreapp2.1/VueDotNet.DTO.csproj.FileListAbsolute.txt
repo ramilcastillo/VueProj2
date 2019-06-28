@@ -1,0 +1,8 @@
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.DTO\bin\Debug\netcoreapp2.1\VueDotNet.DTO.deps.json
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.DTO\bin\Debug\netcoreapp2.1\VueDotNet.DTO.dll
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.DTO\bin\Debug\netcoreapp2.1\VueDotNet.DTO.pdb
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.DTO\obj\Debug\netcoreapp2.1\VueDotNet.DTO.csproj.CoreCompileInputs.cache
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.DTO\obj\Debug\netcoreapp2.1\VueDotNet.DTO.AssemblyInfoInputs.cache
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.DTO\obj\Debug\netcoreapp2.1\VueDotNet.DTO.AssemblyInfo.cs
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.DTO\obj\Debug\netcoreapp2.1\VueDotNet.DTO.dll
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.DTO\obj\Debug\netcoreapp2.1\VueDotNet.DTO.pdb

@@ -1,0 +1,11 @@
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\bin\Debug\netcoreapp2.1\VueDotNet.DAL.deps.json
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\bin\Debug\netcoreapp2.1\VueDotNet.DAL.dll
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\obj\Debug\netcoreapp2.1\VueDotNet.DAL.csprojAssemblyReference.cache
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\obj\Debug\netcoreapp2.1\VueDotNet.DAL.csproj.CoreCompileInputs.cache
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\obj\Debug\netcoreapp2.1\VueDotNet.DAL.AssemblyInfoInputs.cache
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\obj\Debug\netcoreapp2.1\VueDotNet.DAL.AssemblyInfo.cs
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\bin\Debug\netcoreapp2.1\VueDotNet.DAL.runtimeconfig.json
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\bin\Debug\netcoreapp2.1\VueDotNet.DAL.runtimeconfig.dev.json
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\bin\Debug\netcoreapp2.1\VueDotNet.DAL.pdb
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\obj\Debug\netcoreapp2.1\VueDotNet.DAL.dll
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Entities\obj\Debug\netcoreapp2.1\VueDotNet.DAL.pdb

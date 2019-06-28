@@ -1,0 +1,14 @@
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\bin\Debug\netcoreapp2.1\VueDotNet.Repository.deps.json
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\bin\Debug\netcoreapp2.1\VueDotNet.Repository.dll
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\obj\Debug\netcoreapp2.1\VueDotNet.Repository.csprojAssemblyReference.cache
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\obj\Debug\netcoreapp2.1\VueDotNet.Repository.csproj.CoreCompileInputs.cache
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\obj\Debug\netcoreapp2.1\VueDotNet.Repository.AssemblyInfoInputs.cache
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\obj\Debug\netcoreapp2.1\VueDotNet.Repository.AssemblyInfo.cs
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\bin\Debug\netcoreapp2.1\VueDotNet.Repository.runtimeconfig.json
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\bin\Debug\netcoreapp2.1\VueDotNet.Repository.runtimeconfig.dev.json
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\bin\Debug\netcoreapp2.1\VueDotNet.Repository.pdb
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\bin\Debug\netcoreapp2.1\VueDotNet.DAL.dll
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\bin\Debug\netcoreapp2.1\VueDotNet.DAL.pdb
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\obj\Debug\netcoreapp2.1\VueDotNet.Repository.csproj.CopyComplete
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\obj\Debug\netcoreapp2.1\VueDotNet.Repository.dll
+D:\TutorialSource\VueDotNet\VueDotNet\VueDotNet.Repository\obj\Debug\netcoreapp2.1\VueDotNet.Repository.pdb
